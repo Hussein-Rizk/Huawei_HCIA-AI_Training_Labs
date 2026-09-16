@@ -8,6 +8,22 @@ The notebooks progress from classical machine-learning methods to neural network
 
 ---
 
+## 🎓 Certificate
+
+<p align="center">
+  <a href="./HCIA-AI%20Certificate.pdf">
+    <img src="./HCIA-AI%20Certificate.png"
+         alt="HCIA-AI Certificate"
+         width="80%">
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the certificate to view the original PDF.</b>
+</p>
+
+---
+
 ## 📚 Topics Covered
 
 ```text
